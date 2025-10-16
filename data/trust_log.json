@@ -1,0 +1,26 @@
+[
+  {
+    "user": "Carlos",
+    "message": "Aportar al fondo familiar",
+    "amount": 500.0,
+    "due_date": "2025-10-20",
+    "status": "COMPLETED",
+    "hash": "4cc4e5080ae7cc848c3008f35472db412523f0d276d7b8f101203ebccea40235"
+  },
+  {
+    "user": "Daniel",
+    "message": "Aportar al fondo familiar",
+    "amount": 500.0,
+    "due_date": "2025-10-20",
+    "status": "PENDING",
+    "hash": "1383e71aee9e7d581429e895d51347eb4995242dd5b297013abb5aeece8260b9"
+  },
+  {
+    "user": "Carlos",
+    "message": "Aportar al fondo familiar",
+    "amount": 500.0,
+    "due_date": "2025-10-20",
+    "status": "COMPLETED",
+    "hash": "6e79861c858fde18fddd23e89385d8a4a89a1a75250f0379ce05d7fe7bb2fe94"
+  }
+]
