@@ -2,3 +2,4 @@
 .envx
 __pycache__/
 data/*.db
+backup/*.zip
