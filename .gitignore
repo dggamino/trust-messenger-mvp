@@ -1,3 +1,4 @@
 .env
 .envx
 __pycache__/
+data/*.db
