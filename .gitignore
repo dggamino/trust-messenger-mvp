@@ -1,5 +1,19 @@
+# Archivos de entorno
 .env
 .envx
+*.env
+data/.env*
+
+# Python
 __pycache__/
+*.pyc
+
+# Base de datos
+*.db
 data/*.db
+
+# Backups
 backup/*.zip
+
+# Logs
+*.log
