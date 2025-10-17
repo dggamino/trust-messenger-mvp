@@ -17,3 +17,9 @@ backup/*.zip
 
 # Logs
 *.log
+
+# Database local
+data/trust.db
+
+# Backups
+backup/*.zip
