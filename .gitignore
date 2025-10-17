@@ -23,3 +23,6 @@ data/trust.db
 
 # Backups
 backup/*.zip
+                                               # Database local
+data/trust.db                                                                                 # Backups
+backup/*.zip
